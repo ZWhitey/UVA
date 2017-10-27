@@ -9,7 +9,7 @@
 #include <deque>
 #include <stack>
 #include <queue>
-#include<sstream>
+#include <sstream>
 #include <algorithm>
 using namespace std;
 
